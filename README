@@ -1,0 +1,6 @@
+SopivaPOS - Point of sale system
+
+Requirements:
+* CakePHP 1.3
+* PostgreSQL 8.4+ database
+* 72mm thermal printer
